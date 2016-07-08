@@ -1,0 +1,40 @@
+{
+  "name": "flat-colors-groupped",
+  "description": "Groupped flat colors by their range.",
+  "keywords": [
+    "flat",
+    "colors",
+    "groupped",
+    "by",
+    "their",
+    "range"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/flat-colors-groupped.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/flat-colors-groupped/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/flat-colors-groupped#readme"
+}
