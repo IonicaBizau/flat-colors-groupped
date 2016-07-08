@@ -36,5 +36,11 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/flat-colors-groupped/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/flat-colors-groupped#readme"
+  "homepage": "https://github.com/IonicaBizau/flat-colors-groupped#readme",
+  "dependencies": {
+    "flat-colors": "^3.3.3"
+  },
+  "blah": {
+    "related": ["flat-colors", "smart-foreground", "rainbow-sort"]
+  }
 }
