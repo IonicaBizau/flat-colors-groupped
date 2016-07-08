@@ -41,6 +41,10 @@
     "flat-colors": "^3.3.3"
   },
   "blah": {
-    "related": ["flat-colors", "smart-foreground", "rainbow-sort"]
+    "related": [
+      "flat-colors",
+      "smart-foreground",
+      "rainbow-sort"
+    ]
   }
 }
