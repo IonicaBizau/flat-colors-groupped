@@ -29,6 +29,15 @@ console.log(flatColorsGroupped);
 //   gray: [ '#95a5a6', '#7f8c8d' ] }
 ```
 
+## :question: Get Help
+
+There are few ways to get help:
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
@@ -61,6 +70,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`flat-colors`](https://github.com/IonicaBizau/flat-colors.js)—Find the nearest flat color for a RGB/Hex input.
  - [`smart-foreground`](https://github.com/IonicaBizau/smart-foreground#readme)—Calculate matching foreground colors based on backgorund colors.
  - [`rainbow-sort`](https://github.com/IonicaBizau/rainbow-sort#readme)—Sort a list of given colors in the rainbow order.
+
 
 
 ## :scroll: License
