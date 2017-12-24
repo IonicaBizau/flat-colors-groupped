@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save flat-colors-groupped
+# Using npm
+npm install --save flat-colors-groupped
+
+# Using yarn
+yarn add flat-colors-groupped
 ```
 
 
